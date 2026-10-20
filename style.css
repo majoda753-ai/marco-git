@@ -1,0 +1,52 @@
+h1{
+
+    color: brown;
+}
+P{
+background-color: yellow;
+
+}
+.para{
+    background-color: green;
+}
+#uni{
+    background-color:blue;
+}
+h1{
+    color:blue ;
+}
+h2{
+    color: brown;
+}
+h3{
+    color: black;
+}
+h4{
+    color: orange;
+}
+.container{
+    display: flex;
+    gap: 20px;
+}
+
+.box{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    border: 3px solid blue
+    display: flex;
+    border: radius 3px;
+text-align:center;
+}
+
+.box1{
+    background-color: red;
+}
+.box2{
+    background-color: brown;
+    color: white;
+}
+.box3  dzZ{
+    background-color: blue;
+    color: white;
+}
